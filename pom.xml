@@ -26,7 +26,7 @@
         <dbcp.version>2.7.0</dbcp.version>
         <junit5.version>5.5.2</junit5.version>
         <jstl.version>1.2</jstl.version>
-        <log4j2.version>2.12.1</log4j2.version>
+        <log4j2.version>2.13.3</log4j2.version>
         <log4j-slf4j-impl.version>2.12.1</log4j-slf4j-impl.version>
         <lombok.version>1.18.10</lombok.version>
         <mysql.version>5.1.48</mysql.version>
